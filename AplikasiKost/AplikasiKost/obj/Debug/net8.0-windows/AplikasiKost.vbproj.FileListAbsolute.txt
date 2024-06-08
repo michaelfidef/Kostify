@@ -1,0 +1,188 @@
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formBeranda.resources
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.GenerateResource.cache
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfoInputs.cache
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfo.vb
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.CoreCompileInputs.cache
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.exe
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.deps.json
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.runtimeconfig.json
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\refint\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.genruntimeconfig.cache
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\ref\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.Resources.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.exe
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.deps.json
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.runtimeconfig.json
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.Resources.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfo.vb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.sourcelink.json
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\refint\AplikasiKost.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\ref\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formMain.resources
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.Resources.resources
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.GenerateResource.cache
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfoInputs.cache
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfo.vb
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.CoreCompileInputs.cache
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.sourcelink.json
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\refint\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.exe
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.deps.json
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.runtimeconfig.json
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.genruntimeconfig.cache
+C:\Kuliah\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\ref\AplikasiKost.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formMain.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.CopyComplete
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formMain.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formLogin.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.Resources.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.GenerateResource.cache
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfoInputs.cache
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfo.vb
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.CoreCompileInputs.cache
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.sourcelink.json
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\refint\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.exe
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.deps.json
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.runtimeconfig.json
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formMain.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formLogin.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.Resources.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfo.vb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.sourcelink.json
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.CopyComplete
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\refint\AplikasiKost.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\ref\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.exe
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.deps.json
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.runtimeconfig.json
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.AssemblyReference.cache
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\Aplikasi.48A25B6C.Up2Date
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.genruntimeconfig.cache
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\ref\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormTambahKamar.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormTambahPenghuni.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formLogin.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormTambahKamar.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormTambahPenghuni.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.exe
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.deps.json
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.runtimeconfig.json
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.AssemblyReference.cache
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formMain.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formLogin.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormTambahKamar.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormTambahPenghuni.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.Resources.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.GenerateResource.cache
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfoInputs.cache
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfo.vb
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.CoreCompileInputs.cache
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.sourcelink.json
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\Aplikasi.48A25B6C.Up2Date
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\refint\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.pdb
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.genruntimeconfig.cache
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\ref\AplikasiKost.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormEditPenghuni.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormEditKamar.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormEditPenghuni.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormEditKamar.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormDetail.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormLunas.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormDetail.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormLunas.resources
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\Irony.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Kuliah\Pemrograman Desktop\Tugas\TUGAS AKHIR DESKTOP\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\XLParser.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.exe
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.deps.json
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.runtimeconfig.json
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\AplikasiKost.pdb
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\Irony.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\XLParser.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\MySql.Data.xml
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.AssemblyReference.cache
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formMain.resources
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.formLogin.resources
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormTambahKamar.resources
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormTambahPenghuni.resources
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormEditPenghuni.resources
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormEditKamar.resources
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormDetail.resources
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.FormLunas.resources
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.Resources.resources
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.GenerateResource.cache
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfoInputs.cache
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.AssemblyInfo.vb
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.CoreCompileInputs.cache
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.sourcelink.json
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.vbproj.CopyComplete
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\refint\AplikasiKost.dll
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.pdb
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\AplikasiKost.genruntimeconfig.cache
+D:\Document\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\obj\Debug\net8.0-windows\ref\AplikasiKost.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\Irony.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\Tugas_Akhir_Desktop\Tugas Akhir\AplikasiKost\AplikasiKost\bin\Debug\net8.0-windows\XLParser.dll
